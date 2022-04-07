@@ -1,6 +1,6 @@
 # InstaFetch
 
-### A fun little project to scrape profile details from an Instagram account. I made this long ago while I was learning to Scrape the Web.
+A fun little project to scrape profile details from an Instagram account. I made this long ago while I was learning to Scrape the Web.
 
 ## How it works?
 
