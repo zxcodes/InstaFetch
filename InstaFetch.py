@@ -22,7 +22,7 @@ def fetchUserData(username):
     print("⚡ Following: " + userFollowing + '\n')
     userPosts = findUserData[4]
     print("😍 Posts: " + userPosts + '\n')
-    print("🔗 Profile Link: " + requestURL + '\n')
+    print("🔗 Profile Link: " + requestURL.strip("/feed/?hl=en") + '\n')
 
 
 # User Input
