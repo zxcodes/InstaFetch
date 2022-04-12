@@ -26,7 +26,8 @@ def fetchUserData(username):
         print("⚡ Following: " + userFollowing + '\n')
         userPosts = findUserData[4]
         print("😍 Posts: " + userPosts + '\n')
-        print("🔗 Profile Link: " + requestURL + '\n')
+        print("🔗 Profile Link: " +
+              f'https://www.instagram.com/{username}' + '\n')
 
 
 # Getting user input
